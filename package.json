@@ -11,7 +11,7 @@
   "author": "Ben Halverson <benhalverson33@gmail.com> (http://benhalverson.me/)",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "3.7.5"
+    "typescript": "3.9.9"
   },
   "dependencies": {
     "@types/body-parser": "1.19.0",
